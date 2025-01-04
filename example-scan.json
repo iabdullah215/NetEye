@@ -1,0 +1,35 @@
+# Example File
+
+{
+    "target": "8.8.8.8",
+    "results": {
+        "live_hosts": [
+            "8.8.8.8"
+        ],
+        "dns_info": {
+            "ip": "8.8.8.8",
+            "hostname": "dns.google"
+        },
+        "open_ports": [
+            {
+                "port": 53,
+                "banner": null
+            },
+            {
+                "port": 853,
+                "banner": null
+            }
+        ],
+        "geoip": {
+            "country_code": "US",
+            "country_name": "United States",
+            "city": null,
+            "postal": null,
+            "latitude": 37.751,
+            "longitude": -97.822,
+            "IPv4": "8.8.8.8",
+            "state": null
+        },
+        "nmap": [],
+        "vulnerabilities": []
+    }
